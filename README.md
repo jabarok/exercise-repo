@@ -15,16 +15,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Author>Fr0gchy</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>Fr0gchy</o:LastAuthor>
-  <o:Revision>2</o:Revision>
+  <o:Revision>3</o:Revision>
   <o:TotalTime>1</o:TotalTime>
   <o:Created>2016-09-20T11:30:00Z</o:Created>
-  <o:LastSaved>2016-09-20T11:31:00Z</o:LastSaved>
+  <o:LastSaved>2016-09-20T11:34:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
   <o:Words>8</o:Words>
-  <o:Characters>46</o:Characters>
+  <o:Characters>47</o:Characters>
   <o:Lines>1</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>53</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>54</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -37,8 +37,6 @@ xmlns="http://www.w3.org/TR/REC-html40">
  <w:WordDocument>
   <w:View>Print</w:View>
   <w:Zoom>140</w:Zoom>
-  <w:SpellingState>Clean</w:SpellingState>
-  <w:GrammarState>Clean</w:GrammarState>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:HyphenationZone>21</w:HyphenationZone>
@@ -54,6 +52,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
    <w:BreakWrappedTables/>
    <w:SplitPgBreakAndParaMark/>
   </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
   <m:mathPr>
    <m:mathFont m:val="Cambria Math"/>
    <m:brkBin m:val="before"/>
@@ -717,9 +716,11 @@ div.WordSection1
 <div class=WordSection1>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>#
-exercise-repo Repo made for exercise kekek</span><span style='mso-fareast-font-family:
-"Times New Roman";mso-ansi-language:EN-US'> </span><span style='mso-fareast-font-family:
-"Times New Roman"'>Ranmaru <o:p></o:p></span></p>
+exercise-repo Repo made for exercise <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>kekek</span><span
+style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-US'> </span><span
+style='mso-fareast-font-family:"Times New Roman"'>Ranmaru <o:p></o:p></span></p>
 
 </div>
 
