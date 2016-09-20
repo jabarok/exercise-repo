@@ -15,6 +15,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Author>Fr0gchy</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>Fr0gchy</o:LastAuthor>
+<<<<<<< HEAD
   <o:Revision>8</o:Revision>
   <o:TotalTime>2</o:TotalTime>
   <o:Created>2016-09-20T11:30:00Z</o:Created>
@@ -25,6 +26,18 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Lines>1</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
   <o:CharactersWithSpaces>75</o:CharactersWithSpaces>
+=======
+  <o:Revision>7</o:Revision>
+  <o:TotalTime>1</o:TotalTime>
+  <o:Created>2016-09-20T11:30:00Z</o:Created>
+  <o:LastSaved>2016-09-20T11:48:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>11</o:Words>
+  <o:Characters>67</o:Characters>
+  <o:Lines>1</o:Lines>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:CharactersWithSpaces>77</o:CharactersWithSpaces>
+>>>>>>> 0da9c21a29eaa4696d20aea22b666cec3e20d649
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -726,6 +739,9 @@ EN-US'>ohh Super e<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
 mso-ansi-language:EN-US'>Jolene be<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
+mso-ansi-language:EN-US'>Kato nov e we<o:p></o:p></span></p>
 
 </div>
 
