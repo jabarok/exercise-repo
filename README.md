@@ -15,29 +15,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Author>Fr0gchy</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>Fr0gchy</o:LastAuthor>
-<<<<<<< HEAD
   <o:Revision>8</o:Revision>
-  <o:TotalTime>2</o:TotalTime>
-  <o:Created>2016-09-20T11:30:00Z</o:Created>
-  <o:LastSaved>2016-09-20T11:49:00Z</o:LastSaved>
-  <o:Pages>1</o:Pages>
-  <o:Words>11</o:Words>
-  <o:Characters>65</o:Characters>
-  <o:Lines>1</o:Lines>
-  <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>75</o:CharactersWithSpaces>
-=======
-  <o:Revision>7</o:Revision>
   <o:TotalTime>1</o:TotalTime>
   <o:Created>2016-09-20T11:30:00Z</o:Created>
-  <o:LastSaved>2016-09-20T11:48:00Z</o:LastSaved>
+  <o:LastSaved>2016-09-20T11:56:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>11</o:Words>
-  <o:Characters>67</o:Characters>
+  <o:Words>8</o:Words>
+  <o:Characters>50</o:Characters>
   <o:Lines>1</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>77</o:CharactersWithSpaces>
->>>>>>> 0da9c21a29eaa4696d20aea22b666cec3e20d649
+  <o:CharactersWithSpaces>57</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -50,6 +37,8 @@ xmlns="http://www.w3.org/TR/REC-html40">
  <w:WordDocument>
   <w:View>Print</w:View>
   <w:Zoom>140</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:HyphenationZone>21</w:HyphenationZone>
@@ -731,17 +720,8 @@ div.WordSection1
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>#
 exercise-repo Repo made for exercise <o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>kekek</span><span
-style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-US'> </span><span
-style='mso-fareast-font-family:"Times New Roman"'>Ranmaru </span><span
-lang=EN-US style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
-EN-US'>ohh Super e<o:p></o:p></span></p>
-
 <p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
-mso-ansi-language:EN-US'>Jolene be<o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
-mso-ansi-language:EN-US'>Kato nov e we<o:p></o:p></span></p>
+mso-ansi-language:EN-US'>Made for Exercise<o:p></o:p></span></p>
 
 </div>
 
