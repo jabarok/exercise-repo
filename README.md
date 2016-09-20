@@ -15,16 +15,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Author>Fr0gchy</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>Fr0gchy</o:LastAuthor>
-  <o:Revision>4</o:Revision>
+  <o:Revision>5</o:Revision>
   <o:TotalTime>1</o:TotalTime>
   <o:Created>2016-09-20T11:30:00Z</o:Created>
-  <o:LastSaved>2016-09-20T11:35:00Z</o:LastSaved>
+  <o:LastSaved>2016-09-20T11:36:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>8</o:Words>
-  <o:Characters>50</o:Characters>
+  <o:Words>9</o:Words>
+  <o:Characters>55</o:Characters>
   <o:Lines>1</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>57</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>63</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -37,8 +37,6 @@ xmlns="http://www.w3.org/TR/REC-html40">
  <w:WordDocument>
   <w:View>Print</w:View>
   <w:Zoom>140</w:Zoom>
-  <w:SpellingState>Clean</w:SpellingState>
-  <w:GrammarState>Clean</w:GrammarState>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:HyphenationZone>21</w:HyphenationZone>
@@ -724,7 +722,7 @@ exercise-repo Repo made for exercise <o:p></o:p></span></p>
 style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-US'> </span><span
 style='mso-fareast-font-family:"Times New Roman"'>Ranmaru </span><span
 lang=EN-US style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
-EN-US'>ohh<o:p></o:p></span></p>
+EN-US'>ohh Super<o:p></o:p></span></p>
 
 </div>
 
