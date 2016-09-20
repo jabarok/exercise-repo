@@ -15,16 +15,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Author>Fr0gchy</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>Fr0gchy</o:LastAuthor>
-  <o:Revision>5</o:Revision>
+  <o:Revision>7</o:Revision>
   <o:TotalTime>1</o:TotalTime>
   <o:Created>2016-09-20T11:30:00Z</o:Created>
-  <o:LastSaved>2016-09-20T11:36:00Z</o:LastSaved>
+  <o:LastSaved>2016-09-20T11:48:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>9</o:Words>
-  <o:Characters>55</o:Characters>
+  <o:Words>11</o:Words>
+  <o:Characters>67</o:Characters>
   <o:Lines>1</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>63</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>77</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -642,10 +642,10 @@ xmlns="http://www.w3.org/TR/REC-html40">
  @font-face
 	{font-family:"Cambria Math";
 	panose-1:2 4 5 3 5 4 6 3 2 4;
-	mso-font-charset:204;
+	mso-font-charset:1;
 	mso-generic-font-family:roman;
 	mso-font-pitch:variable;
-	mso-font-signature:-536870145 1107305727 0 0 415 0;}
+	mso-font-signature:0 0 0 0 0 0;}
  /* Style Definitions */
  p.MsoNormal, li.MsoNormal, div.MsoNormal
 	{mso-style-unhide:no;
@@ -723,6 +723,9 @@ style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-US'> </spa
 style='mso-fareast-font-family:"Times New Roman"'>Ranmaru </span><span
 lang=EN-US style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
 EN-US'>ohh Super<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
+mso-ansi-language:EN-US'>Kato nov e we<o:p></o:p></span></p>
 
 </div>
 
